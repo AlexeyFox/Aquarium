@@ -3,12 +3,6 @@ import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-/**@version HomeWork 4
- * @author Ekaterina Lezepikov 324623602
- * @author Kassandra Amerzoyev 314129636
- */
-
-
 
 public class WormSingleton {
 
